@@ -22,3 +22,29 @@ I am 20 years old, I am a third-year student of the SSU Faculty of CSIT. For mor
 * Adobe Photoshop
 * C++ (Fundamentals, OOP)
 * C# (Fundamentals, OOP)
+
+## Code Example
+
+```javascript
+const multiplyAll = arr => x => {
+  const newArr = [];
+  arr.forEach (item => {
+    newArr.push(item * x);
+  });
+  return newArr;
+}
+```
+
+## Education
+
+* **Saratov State University named after N. G. Chernyshevsky**
+    * *Faculty of Computer Science and Information Technology*
+* **Udemy**
+    * [JavaScript](https://www.udemy.com/course/javascript_full/) ***(comlete)***
+    * [HTML/CSS](https://www.udemy.com/course/webdeveloper/) ***(In progress...)***
+
+## Languages
+
+* **Russian** - native speaker.
+* **English** - A2 (I practice Duolingo every day)
+* **German** - A1 (I studied English together with him at school)
