@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Rexdown.github.io/rsschool-cv/cv
